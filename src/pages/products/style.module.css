@@ -1,0 +1,103 @@
+.containerTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  background-color: white !important;
+  border: 1px solid var(--borderBox) !important;
+}
+
+.containerTable th {
+  font-weight: bold !important;
+}
+.containerTable td,
+.containerTable th {
+  border: 1px solid var(--borderBox);
+  padding: 5px;
+  text-align: center;
+  font-size: 12px;
+  background-color: white;
+}
+
+.containerTable tr:nth-child(even) {
+  background-color: var(--borderLine)!important;
+}
+.containerTable tr>*:hover {
+  background-color: var(--borderLine) !important;
+
+}
+
+
+.containerTable th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: left;
+  background-color: #3030bf;
+
+  color: white;
+  text-align: center;
+}
+@media screen and (max-device-width: 576px) {
+  .containerTable td,
+  .containerTable th {
+    font-size: 7px;
+    max-width: 40px;
+  }
+}
+
+
+.containerTableBlack {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 1px solid var(--borderBox) !important;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  background-color: black !important;
+}
+
+.containerTableBlack th {
+  font-weight: bold !important;
+}
+.containerTableBlack td,
+.containerTableBlack th {
+  border: 1px solid var(--borderBox);
+  padding: 5px;
+  text-align: center;
+  font-size: 12px;
+  color: white;
+  background-color: black;
+}
+
+.containerTableBlack tr:nth-child(even) {
+
+  color: black !important;
+ 
+}
+.containerTableLBlack tr:nth-child(odd) {
+ 
+  color: white !important;
+}
+
+.containerTableBlack tr:hover {
+  background-color: var(--borderLine) !important;
+  color: black !important;
+}
+
+.containerTableBlack th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: left;
+  background-color: #3030bf;
+
+  color: white;
+  text-align: center;
+}
+@media screen and (max-device-width: 576px) {
+  .containerTableBlack td,
+  .containerTableBlack th {
+    font-size: 7px;
+    max-width: 40px;
+  }
+}

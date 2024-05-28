@@ -1,0 +1,112 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  /* color */
+  --borderLine:#ddd;
+  --bgHeader: #ffffff;
+  --headerSliderColor:#4a4949;
+  --blueTheme:#3030BF;
+  --boxShadowItem:  rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+  rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  --borderBox:rgba(201,201,201,0.12);
+  /* padding */
+  --paddingItem:10px;
+  --paddingItemSm:6px;
+  --gapItem:10px;
+--marginNavHeader:80px;
+--marginNavHeaderItem:50px;
+--radiusItem:5px !important;
+  /* fonts */
+
+  --HfontsSize:20px;
+
+  --BfontsSize:15px;
+  --smHFontSize:10px;
+  --smBFontSize:8px;
+  --NavHeader:30px;
+  
+}
+.titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  
+  }
+  
+  .titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .titillium-web-regular {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .titillium-web-semibold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .titillium-web-black {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .titillium-web-extralight-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .titillium-web-light-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .titillium-web-regular-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .titillium-web-semibold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .titillium-web-bold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    overflow-x: hidden;
+}
+@media screen  and (max-device-width: 576px){
+
+  .MuiStepLabel-labelContainer span {
+    font-size:10px;
+  }
+}

@@ -1,0 +1,390 @@
+.container > div:nth-last-of-type(1) > div:nth-of-type(1) , .progressOne ,.progressTwo{
+  /* box-shadow: var(--boxShadowItem); */
+  border:1px solid var(--borderBox);
+}
+
+
+@media screen and (min-width: 1400px) {
+  .container{
+    gap: var(--gapItem);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: var(--paddingItem);
+  }
+ 
+  .container > div:nth-of-type(1) {
+    display: grid;
+    gap: var(--gapItem);
+    justify-content: space-between !important;
+  }
+  .containerTableLBlack th{
+    font-size: var(--HfontsSize) !important;
+  }
+  
+  .containerTableLBlack td{
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .containerTable th {
+    font-size: var(--HfontsSize) !important;
+  }
+  .containerTable td {
+
+        font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+.saleCity{
+  background-color: white;
+}
+.saleCity >span{
+  color: black !important;
+      font-size: var(--HfontsSize) !important;
+}
+.saleCity > ul >li{
+  color: black !important;
+      font-size: var(--BfontsSize) !important;
+
+}
+.saleCityBlack > ul >li{
+  color: white !important;
+      font-size: var(--BfontsSize) !important;
+
+}
+.saleCityBlack >span{
+  color: white !important;
+      font-size: var(--HfontsSize) !important;
+}
+.saleCityBlack{
+  background-color: black;
+}
+}
+@media screen and (min-width: 1200px) and (max-device-width: 1400px) {
+  .container {
+    gap: var(--gapItem);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    padding: var(--paddingItem);
+  }
+  .container > div:nth-of-type(1) {
+    display: grid;
+    gap: var(--gapItem);
+  }
+  .containerTableLBlack th{
+    font-size: var(--HfontsSize) !important;
+  }
+  .containerTableLBlack td{
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .containerTable th {
+    font-size: var(--HfontsSize) !important;
+  }
+  .containerTable td {
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .saleCity{
+    background-color: white;
+  }
+  .saleCity >span{
+    color: black !important;
+        font-size: var(--HfontsSize) !important;
+  }
+  .saleCity > ul >li{
+    color: black !important;
+        font-size: var(--BfontsSize) !important;
+  
+  }
+  .saleCityBlack > ul >li{
+    color: white !important;
+        font-size: var(--BfontsSize) !important;
+  
+  }
+  .saleCityBlack >span{
+    color: white !important;
+        font-size: var(--HfontsSize) !important;
+  }
+  .saleCityBlack{
+    background-color: black;
+  }
+}
+@media screen and (min-width: 992px) and (max-device-width: 1200px) {
+  .container {
+    display: grid;
+    gap: var(--gapItem);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container > div:nth-last-of-type(1) > div:nth-of-type(1) {
+    width: 100% !important;
+    gap: var(--gapItem);
+  }
+  .container > div:nth-of-type(1) {
+    display: grid;
+    gap: var(--gapItem);
+    justify-content: center;
+    align-items: center;
+  }
+  .containerTableLBlack td{
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .containerTable td {
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .tab {
+    margin: auto;
+  }
+  .saleCity{
+    background-color: white;
+  }
+  .saleCity >span{
+    color: black !important;
+  }
+  .saleCity > ul >li{
+    color: black !important;
+    font-size: var(--BfontsSize) !important;
+  
+  }
+  .saleCityBlack > ul >li{
+    color: white !important;
+    font-size: var(--BfontsSize) !important;
+  
+  }
+  .saleCityBlack >span{
+    color: white !important;
+    font-size: var(--HfontsSize) !important;
+  }
+  .saleCityBlack{
+    background-color: black;
+  }
+}
+@media screen and (min-width: 576px) and (max-device-width: 992px) {
+  .container {
+    display: grid;
+    gap: var(--gapItem);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container > div:nth-last-of-type(1) > div:nth-of-type(1) {
+    width: 100% !important;
+    gap: var(--gapItem);
+  }
+  .container > div:nth-of-type(1) {
+    display: grid;
+    gap: var(--gapItem);
+    justify-content: center;
+    align-items: center;
+  }
+  .containerTableLBlack td{
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .containerTableLBlack th{
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+
+  .containerTable td {
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .containerTable th {
+    font-size: var(--BfontsSize) !important;
+    padding: var(--paddingItem) !important;
+  }
+  .tab {
+    margin: auto;
+  }
+  .saleCity{
+    background-color: white;
+  }
+  .saleCity >span{
+    color: black !important;
+    font-size: var(--BfontsSize) !important;
+  }
+  .saleCity > ul >li{
+    color: black !important;
+    font-size: var(--BfontsSize) !important;
+  
+  }
+  .saleCityBlack > ul >li{
+    color: white !important;
+    font-size: var(--BfontsSize) !important;
+  }
+  .saleCityBlack >span{
+    color: white !important;
+    font-size: var(--BfontsSize) !important;
+  }
+  .saleCityBlack{
+    background-color: black;
+  }
+}
+@media screen and (max-device-width: 576px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: var(--gapItem);
+   
+  }
+  .container > div:nth-of-type(1) {
+    display: grid;
+    gap: var(--gapItem);
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .containerTableLBlack td{
+    padding: var(--paddingItemSm) !important;
+    text-align: center;
+    font-size: var(--smBFontSize) !important;
+  }
+  .containerTableLBlack th{
+    padding: var(--paddingItemSm) !important;
+ 
+
+  
+    font-size: var(--smHFontSize) !important;
+  }
+  .containerTable td {
+    
+    padding: var(--paddingItemSm) !important;
+    text-align: center;
+    font-size: var(--smHFontSize) !important;
+  }
+
+
+
+  
+
+  .containerTable th {
+   
+    padding: var(--paddingItemSm) !important;
+ 
+
+  
+    font-size: var(--smHFontSize) !important;
+  }
+  .saleCity{
+    background-color: white;
+  }
+  .saleCity >span{
+    color: black !important;
+    font-size: var(--HfontsSize);
+  }
+  .saleCity > ul >li{
+    color: black !important;
+        font-size: var(--smHFontSize) !important;
+  
+  }
+  .saleCityBlack > ul >li{
+    color: white !important;
+        font-size: var(--smHFontSize) !important;
+  
+  }
+  .saleCityBlack >span{
+    color: white !important;
+  }
+  .saleCityBlack{
+    background-color: black;
+  }
+}
+.containerTableLBlack{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+ 
+width: 100%;
+
+  text-align: center;
+  background-color: black;
+}
+.containerTableLBlack td,
+.containerTableLBlack th {
+  border:1px solid var(--borderBox);
+/* color: white; */
+  text-align: center;
+
+}
+.containerTableLBlack td {
+  font-weight: 300;
+
+}
+.containerTableLBlack th{
+  font-weight: bold !important;
+}
+.containerTableLBlack th {
+
+
+ 
+  background-color: var(--blueTheme);
+
+  color: white;
+  text-align: center;
+}
+
+.containerTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+ 
+width: 100%;
+background-color: white;
+  text-align: center;
+}
+
+.containerTable th {
+  font-weight: bold !important;
+ 
+
+}
+.containerTable td,
+.containerTable th {
+  border:1px solid var(--borderBox);
+
+  text-align: center;
+
+}
+.containerTable td {
+  font-weight: 300;
+
+}
+
+
+
+
+.containerTable th {
+
+
+ 
+  background-color: var(--blueTheme);
+
+  color: white;
+  text-align: center;
+}
+.containerTableLBlack tr:nth-child(even) {
+  background-color: var(--borderLine) !important;
+  color: black !important;
+}
+.containerTableLBlack tr:nth-child(odd) {
+ 
+  color: white !important;
+}
+.containerTableLBlack tr>*:hover {
+  background-color: var(--borderLine) !important;
+  color: black !important;
+}
+.containerTable tr:nth-child(even) {
+  background-color: var(--borderLine)!important;
+}
+.containerTable tr>*:hover {
+  background-color: var(--borderLine) !important;
+
+}
