@@ -27,10 +27,10 @@
 
 <br/>
 
-## usename: karn.yong@melivecode.com
+ usename: karn.yong@melivecode.com
 <br/>
 
-## password: melivecode
+ password: melivecode
 <br/>
 <br/>
 
