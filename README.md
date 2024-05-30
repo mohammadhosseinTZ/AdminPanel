@@ -1,24 +1,27 @@
 # AdminPanel
 
-<img width="1126" alt="sign" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/d16940bc-d917-4406-9a55-8ed879b17368">
+<img width="1126" alt="Capture" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/53a720bf-7101-4ca2-b755-caf182fe7318">
 <br/>
 <br/>
 
-<img width="1126" alt="login" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/132ba9cf-c385-4d51-bbd0-26cb123049c2">
+
+<img width="1113" alt="Dashboard1" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/371eedbf-55f1-484c-b2e8-dbc003dc0cb5">
+
 <br/>
 <br/>
-<img width="1112" alt="admin1" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/460bcb7b-33fc-4aff-8324-552a44083258">
+<img width="1113" alt="Dashboard2" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/9c8c1de7-2946-4a24-ae6d-20c3f4eddcaf">
+
 <br/>
 <br/>
-<img width="1107" alt="admin2" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/6efe145c-9142-4cf4-955d-f7efce8bb7e6">
+<img width="1120" alt="Orders" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/d841e15b-23b3-44fd-9f4d-d9eb475d2acd">
+
 <br/>
 <br/>
-<img width="1111" alt="product" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/28a00c57-49cb-41cb-b451-1f7ea603a795">
+<img width="1114" alt="Product" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/540d2d78-eb1b-40fe-b026-ba6d15d3df85">
+
 <br/>
 <br/>
-<img width="1104" alt="order" src="https://github.com/mohammadhosseinTZ/AdminPanel/assets/146634977/0ca90f50-fce5-4ab5-bd12-646d23b399c1">
-<br/>
-<br/>
+
 
 
 <br/>
