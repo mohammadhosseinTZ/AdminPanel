@@ -50,7 +50,7 @@ For the login and authentication page, API [melivecode](https://melivecode.com/)
 
 <br/>
 
-### made by: HTML, CSS, JS, React, MUI
+### Made by: HTML, CSS, JS, React, MUI
 <br/>
 
 ### Full responsive.
