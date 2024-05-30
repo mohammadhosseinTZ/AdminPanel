@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-### You can also create your own account through <span color="green">"ُSign up"</span>.
+### You can also create your own account through <span color="green">"Sign up"</span>.
 <br/>
 <br/>
 <br/>
